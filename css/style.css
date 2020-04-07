@@ -116,11 +116,11 @@ img {max-width: 100%;}
 .container .block-item-4 > ul li.dropdown:hover > a:after {height: 305px; transition: all 1500ms ease-in-out;}
 .container .block-item-4 > ul li.dropdown ul li > a:after {content: ''; position: absolute; left: 41px; width: 7px; height: 7px; border-radius: 50%; background: #3692c7; border: 2px solid #404a65; top: 50%; transform: translateY(-50%) scale(0,0); z-index: 3; transition: all 100ms ease-in; transition-delay: 50ms; z-index: 4;}
 /*.container .block-item-4 > ul li.dropdown ul li:hover > a:after {background: red;}*/
-.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(1) > a:after {transition-delay: 250ms; transform: translateY(-50%) scale(1,1);}
+.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(1) > a:after {transition-delay: 300ms; transform: translateY(-50%) scale(1,1);}
 .container .block-item-4 > ul li.dropdown:hover ul li:nth-child(2) > a:after {transition-delay: 500ms; transform: translateY(-50%) scale(1,1);}
-.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(3) > a:after {transition-delay: 650ms; transform: translateY(-50%) scale(1,1);}
+.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(3) > a:after {transition-delay: 700ms; transform: translateY(-50%) scale(1,1);}
 .container .block-item-4 > ul li.dropdown:hover ul li:nth-child(4) > a:after {transition-delay: 900ms; transform: translateY(-50%) scale(1,1);}
-.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(5) > a:after {transition-delay: 1050ms; transform: translateY(-50%) scale(1,1);}
+.container .block-item-4 > ul li.dropdown:hover ul li:nth-child(5) > a:after {transition-delay: 1150ms; transform: translateY(-50%) scale(1,1);}
 .container .block-item-4 > ul li.dropdown:hover ul li:nth-child(6) > a:after {transition-delay: 1400ms; transform: translateY(-50%) scale(1,1);}
 /* меню 4 - конец */
 
